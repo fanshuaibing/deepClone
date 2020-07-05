@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/.gitignore
+.idea/deepClone.iml
+.idea/misc.xml
+.idea/modules.xml
+node_modules/
+
